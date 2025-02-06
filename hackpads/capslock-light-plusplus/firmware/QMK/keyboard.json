@@ -1,6 +1,6 @@
 {
     "manufacturer": "Cal",
-    "keyboard_name": "capslock_light_plusplus",
+    "keyboard_name": "capslocklightplusplus",
     "maintainer": "UnnaturalTwilight",
     "bootloader": "rp2040",
     "diode_direction": "COL2ROW",

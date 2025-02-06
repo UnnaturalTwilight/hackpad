@@ -2,10 +2,16 @@ OLED_ENABLE = yes
 OLED_TRANSPORT = i2c
 OLED_DRIVER = ssd1306
 
-RGBLIGHT_ENABLE = no
+RGBLIGHT_ENABLE = yes
 WS2812_DRIVER = vendor
 
 ENCODER_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
+
+REPEAT_KEY_ENABLE = yes
+
 # required for rp2040
 LTO_ENABLE = yes
+
+# Debugging
+# CONSOLE_ENABLE = yes
